@@ -1,5 +1,4 @@
 # Terraform-Jenkins-Create-User-with-S3_perm
-==============================================
 This template serves as a boilerplate for the initial testing of Terraform within a Jenkins CI/CD pipeline. It facilitates the creation of essential resources for setting up an account with S3 bucket permissions as a quick example.
 
 In my view, _automating IAM administration_ is of paramount importance. 
